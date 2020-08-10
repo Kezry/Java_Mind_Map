@@ -9,5 +9,7 @@ github直链 ：<https://kezry.github.io/Java_Mind_Map/Java_Mind_Map.html>
 
 *或者跳转我的CDN加速站点 <https://java.woukfun.cn> 同步更新
 
+*更新了每日学习目标，日更 <https://java.woukfun.cn/Daily.html> 
+
 
 #如果喜欢，欢迎加星星
