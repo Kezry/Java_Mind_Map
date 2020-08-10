@@ -5,6 +5,8 @@ This is a Java Mind Map for java leanner
 
 github直链 ：<https://kezry.github.io/Java_Mind_Map/Java_Mind_Map.html>
 
+更新了每日学习目标，github直链 <https://kezry.github.io/Java_Mind_Map/Daily.html> 
+
 *如果遇到网速慢的问题，请先下载到本地浏览器查看。
 
 *或者跳转我的CDN加速站点 <https://java.woukfun.cn> 同步更新
