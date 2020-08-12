@@ -1,23 +1,19 @@
 # Java_Mind_Map
-This is a Java Mind Map for java leanner
-
-这是一个java的思维导图，不定时更新，期望是一直完善他
-
-github直链 ：<https://kezry.github.io/Java_Mind_Map/Java_Mind_Map.html>
-
-更新了Java基础复习计划 ，github直链 <https://kezry.github.io/Java_Mind_Map/Daily.html> 
-
-创建了JavaWeb工程目录结构解析 ，github直链 <https://kezry.github.io/Java_Mind_Map/JavaWeb.html> 
+ This is a Java Mind Map for Java learners.
 
 
+#这是一个java的思维导图，不定时更新，期望是一直完善他
 
-*如果遇到网速慢的问题，请先下载到本地浏览器查看。
+Java思维导图 ： <https://java.woukfun.cn> 
+    备用链接：<https://kezry.github.io/Java_Mind_Map/Java_Mind_Map.html>
 
-*或者跳转我的CDN加速站点 <https://java.woukfun.cn> 同步更新
+#Java基础复习计划，日更
+Java基础复习计划： <https://java.woukfun.cn/Daily.html> 
+    备用链接：<https://kezry.github.io/Java_Mind_Map/Daily.html> 
 
-*更新了Java基础复习计划，日更 <https://java.woukfun.cn/Daily.html> 
-
-*创建了JavaWeb工程目录结构解析  <https://java.woukfun.cn/JavaWeb.html> 
 
 
 #如果喜欢，欢迎加星星
+
+*Java_Web工程解析 尚未完善 <https://java.woukfun.cn/JavaWeb.html> 
+        备用链接：<https://kezry.github.io/Java_Mind_Map/JavaWeb.html> 
