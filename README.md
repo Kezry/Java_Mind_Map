@@ -26,7 +26,7 @@ Java基础复习计划： <https://java.woukfun.cn/Daily.html>
 
 
 
-*Java_Web工程解析 尚未完善 <https://java.woukfun.cn/JavaWeb.html> 
+*Java_Web工程解析 <https://java.woukfun.cn/JavaWeb.html> 
 
 *    备用链接：<https://kezry.github.io/Java_Mind_Map/JavaWeb.html> 
 
